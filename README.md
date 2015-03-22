@@ -2,6 +2,8 @@
 
 Smooth scrolling for anchor links using scroll-to-element
 
+[![NPM](https://nodei.co/npm/anchor-scroll.png)](https://nodei.co/npm/anchor-scroll/)
+
 ## Installation
 
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
