@@ -1,0 +1,29 @@
+{
+  "name": "anchor-scroll",
+  "description": "Smooth scrolling for anchor links using scroll-to-element",
+  "version": "0.0.1",
+  "author": {
+    "name": "Will Hoag",
+    "email": "dev@willhoag.com"
+  },
+  "bugs": {
+    "url": "https://github.com/willhoag/anchor-scroll/issues"
+  },
+  "dependencies": {
+    "closest": "0.0.1",
+    "object-assign": "^2.0.0",
+    "scroll-to-element": "0.0.2"
+  },
+  "keywords": [
+    "anchor",
+    "animate",
+    "scroll",
+    "smooth"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willhoag/anchor-scroll.git"
+  }
+}
