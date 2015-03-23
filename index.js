@@ -23,7 +23,7 @@ function init(options) {
       if (history.pushState && options.updateUrl) {
         history.pushState(null, null, link.hash || '#');
       }
-      scrollTo(link.hash || 'html');
+      scrollTo(link.hash || 'html', options);
     }
   };
 
