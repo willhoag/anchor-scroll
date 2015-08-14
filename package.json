@@ -1,7 +1,7 @@
 {
   "name": "anchor-scroll",
   "description": "Smooth scrolling for anchor links using scroll-to-element",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": {
     "name": "Will Hoag",
     "email": "dev@willhoag.com"
