@@ -17,7 +17,7 @@ function init(options) {
   }, options);
 
   eventHandler = function(ev) {
-    var link = closest(ev.target, "a[href*='#']", true);
+    var link = closest(ev.target, options.selector || "a[href*='#']", true);
     if (link) {
       ev.preventDefault();
       if (history.pushState && options.updateUrl) {
