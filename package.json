@@ -1,7 +1,7 @@
 {
   "name": "anchor-scroll",
   "description": "Smooth scrolling for anchor links using scroll-to-element",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": {
     "name": "Will Hoag",
     "email": "dev@willhoag.com"
@@ -12,7 +12,7 @@
   "dependencies": {
     "closest": "0.0.1",
     "object-assign": "^2.0.0",
-    "scroll-to-element": "0.0.2"
+    "scroll-to-element": "^1.1.0"
   },
   "keywords": [
     "anchor",
